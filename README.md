@@ -40,30 +40,4 @@ Install Dependencies
 ```
 pip install -r requirements.txt
 ```
----
 
-#Usage 🎉
-Launch the tool and start querying DNS records:
-
-```
-python app.py
-```
-Enter the domain name you wish to query when prompted. The tool will display the DNS records in a clear, organized manner.
-
-#Example 📊
-```
-python app.py
-```
-Enter the domain: example.com
-
-Output:
-```
-A records for example.com:
-  93.184.216.34
-
-AAAA records for example.com:
-  2606:5000:60::1
-
-CNAME records for example.com:
-  www.example.com
-```
