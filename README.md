@@ -50,7 +50,6 @@ python app.py
 ```
 Enter the domain name you wish to query when prompted. The tool will display the DNS records in a clear, organized manner.
 
----
 #Example 📊
 ```
 python app.py
