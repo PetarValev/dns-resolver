@@ -57,7 +57,7 @@ python app.py
 Enter the domain: example.com
 
 Output:
-
+```
 A records for example.com:
   93.184.216.34
 
@@ -66,3 +66,4 @@ AAAA records for example.com:
 
 CNAME records for example.com:
   www.example.com
+```
