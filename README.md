@@ -18,7 +18,7 @@ Follow these steps to set up the DNS Resolver Tool:
 Clone the Repository
 
 ```
-git clone https://github.com/your-username/dns-resolver.git
+git clone https://github.com/PetarValev/dns-resolver.git
 cd dns-resolver
 ```
 Create and Activate a Virtual Environment
