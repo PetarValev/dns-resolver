@@ -12,7 +12,7 @@ Effortless Setup: Get up and running with a few simple commands. 🎯
 
 ---
 
-#Installation# 🛠️
+Installation 🛠️
 Follow these steps to set up the DNS Resolver Tool:
 
 Clone the Repository
